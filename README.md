@@ -1,3 +1,12 @@
+# BloxtoCode_scratchblocks
+
+Overview: BloxtoCode are tangible coding blocks curating a more hands-on learning experience, encourage peer programming through unplugged Computer Science activities to understand the fundamental concepts of computer science. Students will develop their critical, analytical, and problem solving skills through the use of the product.
+
+To reproduce your own Scratch blocks for the classroom you will need:
+- 3D printer
+- Filament
+- [TinkerCAD account](https://www.tinkercad.com/)
+- [scratchblocks](http://scratchblocks.github.io/)
 ---
 
 Make pictures of Scratch blocks from text.
