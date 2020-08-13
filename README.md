@@ -1,12 +1,22 @@
 # 3D_Print_Coding_Blocks
 
-Overview: BloxtoCode are tangible coding blocks curating a more hands-on learning experience, encourage peer programming through unplugged Computer Science activities to understand the fundamental concepts of computer science. Students will develop their critical, analytical, and problem solving skills through the use of the product.
 
-To reproduce your own Scratch blocks for the classroom you will need:
+Overview: Tangible coding blocks curates a more hands-on learning experience, encourage peer programming through unplugged computer science activities to understand the fundamental concepts of computer science. Students will develop their critical, analytical, and problem-solving skills through the use of physical coding blocks.
+
+To reproduce your own coding blocks for the classroom you will need:
 - 3D printer
 - Filament
 - [TinkerCAD account](https://www.tinkercad.com/)
 - [scratchblocks](http://scratchblocks.github.io/)
+
+How to 3D print your own coding blocks:
+1. With the [scratchblocks](http://scratchblocks.github.io/) generator, type in your desired coding block and then download the SVG file. The SVG will provide the shape of the coding block.
+2. Log into [TinkerCAD account](https://www.tinkercad.com/), start a new project, and upload the SVG file to the building plate.
+3. If there are missing components to your coding block create the indentations by duplicating and erasing components as needed.
+4. Add the corresponding text that you used in the [scratchblocks](http://scratchblocks.github.io/) generator to your blocks.
+5. Space out and size all the components of your coding blocks accordingly and you are done designing your coding block.
+6. Export the coding block as an STL file, throw it into your slicer of choice, and 3D print your coding block!
+7. To differentiate the text and block color; you pause the print, unload the filament, load the new filament, and resume your print.
 ---
 
 Make pictures of Scratch blocks from text.
