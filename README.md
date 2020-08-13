@@ -1,4 +1,4 @@
-# 3D_Print_Scratch_Blocks
+# 3D_Print_Coding_Blocks
 
 Overview: BloxtoCode are tangible coding blocks curating a more hands-on learning experience, encourage peer programming through unplugged Computer Science activities to understand the fundamental concepts of computer science. Students will develop their critical, analytical, and problem solving skills through the use of the product.
 
