@@ -11,7 +11,7 @@ To reproduce your own coding blocks for the classroom you will need:
 
 How to 3D print your own coding blocks:
 1. With the [scratchblocks](http://scratchblocks.github.io/) generator, type in your desired coding block and then download the SVG file. The SVG will provide the shape of the coding block.
-2. Log into [TinkerCAD account](https://www.tinkercad.com/), start a new project, and upload the SVG file to the building plate.
+2. Log into [TinkerCAD](https://www.tinkercad.com/), start a new project, and upload the SVG file to the building plate.
 3. If there are missing components to your coding block create the indentations by duplicating and erasing components as needed.
 4. Add the corresponding text that you used in the [scratchblocks](http://scratchblocks.github.io/) generator to your blocks.
 5. Space out and size all the components of your coding blocks accordingly and you are done designing your coding block.
