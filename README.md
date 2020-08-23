@@ -17,6 +17,15 @@ How to 3D print your own coding blocks:
 5. Space out and size all the components of your coding blocks accordingly and you are done designing your coding block.
 6. Export the coding block as an STL file, throw it into your slicer of choice, and 3D print your coding block!
 7. To differentiate the text and block color; you pause the print, unload the filament, load the new filament, and resume your print.
+
+Here are some visuals of the final product:
+![](3D_Print/img1.jpeg)
+![](3D_Print/img2.png)
+![](3D_Print/img3.HEIC)
+![](3D_Print/img4.jpeg)
+![](3D_Print/img5.jpeg)
+![](3D_Print/img6.jpeg)
+
 ---
 
 Make pictures of Scratch blocks from text.
