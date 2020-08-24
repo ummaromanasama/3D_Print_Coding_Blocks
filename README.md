@@ -21,9 +21,9 @@ How to 3D print your own coding blocks:
 Here are some visuals of the final product:
 ![](3D_Print/img1.jpeg)
 ![](3D_Print/img2.png)
-![](3D_Print/img3.HEIC)
-![](3D_Print/img4.jpeg)
+![](3D_Print/img3.png)
 ![](3D_Print/img5.jpeg)
+![](3D_Print/img4.jpeg)
 ![](3D_Print/img6.jpeg)
 
 ---
