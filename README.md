@@ -25,7 +25,7 @@ Here are some visuals of my creation of the coding blocks:
 ![](3D_Print/img5.jpeg)
 ![](3D_Print/img4.jpeg)
 ![](3D_Print/img6.jpeg)
-![](3D_Print/code_blocks.jpeg)
+![](3D_Print/code_blocks.stl)
 
 ---
 
